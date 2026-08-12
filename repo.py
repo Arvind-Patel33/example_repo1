@@ -3,7 +3,7 @@ num1 = 5
 num2 = 10
 
 # Calculate the sum
-total = num1 + num2
+total_sum = num1 + num2
 
 # Display the result
-print(f"The sum is: {total}")
+print(f"The sum is: {total_sum}")

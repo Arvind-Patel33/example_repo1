@@ -1,5 +1,5 @@
 num1 = 5
-num2 = 10
+num2 = 100
 
 # Multiply the numbers
 product = num1 * num2
